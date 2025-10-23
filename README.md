@@ -1,7 +1,8 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://chatgpt.com/s/m_68fa4064c39c8191a4e1e30f1dd779b1?font=Poppins&size=25&duration=3000&pause=1000&color=37C978&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kunj+Rastogi;Aspiring+Data+Analyst;AI+%26+ML+Enthusiast;Full+Stack+Learner;Turning+Data+into+Insights+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi%20I'm%20Kunj%20Rastogi;Aspiring%20Data%20Analyst%20📊;AI%20%26%20ML%20Enthusiast%20🤖;Full%20Stack%20Learner%20💻;Turning%20Data%20into%20Insights!" alt="Typing SVG" />
 </p>
+
 
 ---
 
