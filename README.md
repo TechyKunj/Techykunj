@@ -1,6 +1,12 @@
-<!-- Typing SVG -->
+<h1 align="center">👋 Hi, I'm Kunj Rastogi</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi%20I'm%20Kunj%20Rastogi;Aspiring%20Data%20Analyst%20📊;AI%20%26%20ML%20Enthusiast%20🤖;Full%20Stack%20Learner%20💻;Turning%20Data%20into%20Insights!" alt="Typing SVG" />
+  Aspiring <b>Data Analyst 📊</b> | <b>AI & ML Enthusiast 🤖</b> | <b>Full Stack Learner 💻</b>  
+</p>
+
+<p align="center">
+  Turning data into insights and insights into action.  
+  Passionate about building intelligent solutions that make a real-world impact.
 </p>
 
 
