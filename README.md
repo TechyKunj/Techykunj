@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=37C978&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kunj+Rastogi;Aspiring+Data+Analyst;AI+%26+ML+Enthusiast;Full+Stack+Learner;Turning+Data+into+Insights+📊" alt="Typing SVG" />
+  <img src="https://chatgpt.com/s/m_68fa4064c39c8191a4e1e30f1dd779b1?font=Poppins&size=25&duration=3000&pause=1000&color=37C978&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kunj+Rastogi;Aspiring+Data+Analyst;AI+%26+ML+Enthusiast;Full+Stack+Learner;Turning+Data+into+Insights+📊" alt="Typing SVG" />
 </p>
 
 ---
