@@ -42,41 +42,7 @@
 #### 📊 Data & BI Tools  
 `Power BI` • `MS Excel` • `Statistics` • `DAX` • `Data Visualization`
 
----
 
-### 🚀 **Featured Projects**
-
-#### 🧠 ResearcherAgent-ScholarBot  
-> Built an AI-powered research assistant that retrieves, summarizes, and analyzes academic papers using **LangChain** & **Gemini API**.  
-🧩 `Streamlit` • `LangGraph` • `LangChain` • `Gemini API`  
-🔗 [View Code](#)
-
-#### 📊 Blinkit Sales Dashboard  
-> Interactive **Power BI dashboard** analyzing sales trends with **DAX KPIs** and total sales of $1.2M.  
-📈 `Power BI` • `DAX` • `Data Cleaning`  
-🔗 [View Code](#)
-
-#### 🧾 DocuMind  
-> AI document summarizer & Q&A assistant with citations and analytics to enhance learning outcomes.  
-⚡ `Streamlit` • `FastAPI` • `Gemini` • `LangChain`  
-🔗 [View Code](#)
-
-#### 🔗 URL Shortener  
-> Full Stack app with analytics, custom links, and real-time tracking.  
-💻 `React` • `Tailwind` • `Supabase`  
-🔗 [Live Demo](#)
-
-#### 🧰 AI Resume Analyzer  
-> AI-powered ATS resume evaluator providing improvement feedback.  
-🧠 `Python` • `AI/ML` • `NLP`  
-🔗 [Live Demo](#)
-
-#### 💼 Data Job Dashboard  
-> Interactive dashboard revealing data job trends and insights.  
-📊 `Python` • `Pandas` • `Plotly` • `Power BI`  
-🔗 [View Code](#)
-
----
 
 ### 🏆 **Achievements & Experience**
 
@@ -99,19 +65,6 @@ Developed ML pipelines achieving **96% accuracy** and delivered actionable insig
   <a href="https://github.com/Techykunj"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://x.com/kunj_rasto97269"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://kunjportfolia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-37C978?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
-
----
-
-### 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunjrastogi&show_icons=true&theme=vue&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjrastogi&layout=compact&theme=vue&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunjrastogi&theme=vue"/>
 </p>
 
 ---
