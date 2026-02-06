@@ -1,78 +1,93 @@
 <h1 align="center">👋 Hi, I'm Kunj Rastogi</h1>
 
 <p align="center">
-  Aspiring <b>Data Analyst 📊</b> | <b>AI & ML Enthusiast 🤖</b> | <b>Full Stack Learner 💻</b>  
+  <b>AI Engineer 🤖</b> | <b>Data Analyst 📊</b> | <b>Machine Learning Enthusiast</b>
 </p>
 
 <p align="center">
-  Turning data into insights and insights into action.  
-  Passionate about building intelligent solutions that make a real-world impact.
+  I transform raw data into intelligent insights and build AI-driven solutions  
+  that solve real-world problems with impact.
 </p>
-
 
 ---
 
 ### 👨‍💻 **About Me**
-🎓 B.Tech in IT @ KIET (CGPA: 8.0)  
-💡 Passionate about **Data Science, AI, and Full Stack Development**  
-🚀 Experienced in **5+ Projects**, **5+ Hackathons**, and **GSSoC Contributor**  
-🌍 Always exploring ways to turn **data into meaningful action**  
-📸 Outside of tech, I love **traveling and photography**  
+🎓 B.Tech in Information Technology @ KIET (CGPA: 8.0)  
+📊 Strong focus on **Data Analytics, Machine Learning & AI Systems**  
+🤖 Hands-on experience with **LLMs, ML models, and analytics pipelines**  
+🚀 Built **5+ AI & Data projects**, participated in **5+ Hackathons**  
+🌍 Curious about turning **data → insights → decisions**  
+📸 Outside tech, I enjoy **traveling and photography**
 
 ---
 
-### 🧠 **Tech Stack**
+### 🧠 **Core Expertise**
 
-#### 💻 Programming Languages  
-`Python` • `Java` • `C` • `SQL` • `HTML` • `CSS` • `JavaScript`
+#### 📊 Data Analytics & Insights  
+`Exploratory Data Analysis (EDA)` • `Data Cleaning` • `Feature Engineering`  
+`Statistical Analysis` • `KPIs & Metrics` • `Data Storytelling`  
+`Power BI Dashboards` • `Excel Automation`
 
-#### 🤖 Generative AI & LLMs  
-`Google Gemini` • `OpenAI GPT` • `LLaMA` • `LangGraph` • `LangChain` • `RAG` • `Transformers` • `Prompt Engineering`
+#### 🤖 Artificial Intelligence & Generative AI  
+`Large Language Models (LLMs)` • `Prompt Engineering` • `RAG Pipelines`  
+`Google Gemini` • `OpenAI GPT` • `LLaMA`  
+`LangChain` • `LangGraph` • `Transformers`
 
 #### 🧩 Machine Learning & Deep Learning  
-`ANN` • `CNN` • `RNN` • `EDA` • `Feature Engineering` • `MLflow` • `Supervised` & `Unsupervised Learning`
-
-#### ⚙️ Frameworks & Libraries  
-`TensorFlow` • `PyTorch` • `Hugging Face` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`  
-`Flask` • `FastAPI` • `Streamlit` • `Selenium` • `BeautifulSoup4`
-
-#### 🗄️ Databases & Cloud  
-`MySQL` • `MongoDB` • `PostgreSQL` • `AWS` • `GCP` • `Docker` • `Git`
-
-#### 📊 Data & BI Tools  
-`Power BI` • `MS Excel` • `Statistics` • `DAX` • `Data Visualization`
-
-
-
-### 🏆 **Achievements & Experience**
-
-🏅 **GSSoC Contributor** – Jul 2025 – Present  
-Contributing to open-source projects with developers across the globe.  
-
-💡 **Hackathon Finalist (5+)** – Apr 2023 – Present  
-Recognized for innovative AI & ML-based solutions.  
-
-📈 **Data Science Intern** – Oasis Infobyte (Aug–Sep 2024)  
-Developed ML pipelines achieving **96% accuracy** and delivered actionable insights.
+`Supervised & Unsupervised Learning`  
+`ANN` • `CNN` • `RNN`  
+`Model Evaluation` • `Hyperparameter Tuning` • `MLflow`
 
 ---
 
-### 🌐 **Let's Connect**
+### ⚙️ **Tech Stack**
+
+#### 💻 Programming & Querying  
+`Python` • `SQL` • `Java` • `C`
+
+#### 📚 Libraries & Frameworks  
+`Pandas` • `NumPy` • `Scikit-learn`  
+`TensorFlow` • `PyTorch` • `Hugging Face`  
+`Matplotlib` • `Seaborn` • `Plotly`
+
+#### 🧠 AI & Backend Tools  
+`Flask` • `FastAPI` • `Streamlit`  
+`Selenium` • `BeautifulSoup4`
+
+#### 🗄️ Databases & Cloud  
+`MySQL` • `PostgreSQL` • `MongoDB`  
+`AWS` • `GCP` • `Docker` • `Git`
+
+---
+
+### 🏆 **Experience & Achievements**
+
+🏅 **GSSoC Contributor** (Jul 2025 – Present)  
+Actively contributing to open-source AI and data-driven projects.
+
+💡 **Hackathon Finalist (5+)** (2023 – Present)  
+Built innovative solutions using **AI, ML, and data analytics**.
+
+📈 **Data Science Intern – Oasis Infobyte** (Aug–Sep 2024)  
+• Built end-to-end ML pipelines with **96% accuracy**  
+• Delivered business-focused insights through data analysis
+
+---
+
+### 🌐 **Let’s Connect**
 
 <p align="center">
   <a href="mailto:kunjrastogi2919@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kunjrastogi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Techykunj"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/kunj_rasto97269"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/kunj_rasto97269"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://kunjportfolia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-37C978?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
 
 ### ✨ **Quote**
-> _“Turning data into insights and insights into action.”_
-
----
+> _“Turning data into insights and insights into intelligent action.”_
 
 
 
