@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kunj Rastogi</h1>
 
 <p align="center">
-  <b>AI Engineer 🤖</b> | <b>Data Analyst 📊</b> | <b>Machine Learning Enthusiast</b>
+  <b>AI/ML Engineer 🤖</b> | <b>Data Analyst 📊</b> | <b>Building Intelligent Systems 🚀</b>
 </p>
 
 <p align="center">
