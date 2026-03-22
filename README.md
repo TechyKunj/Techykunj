@@ -50,12 +50,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=techykunj)
-
----
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=techykunj\&theme=radical\&hide_border=false)
